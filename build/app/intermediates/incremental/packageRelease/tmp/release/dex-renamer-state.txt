@@ -1,0 +1,4 @@
+#Wed May 14 21:03:52 CST 2025
+base.0=C\:\\Users\\Isayas\\Desktop\\Proyecto_de_Flutter\\control_de_gastos\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
